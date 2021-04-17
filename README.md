@@ -11,7 +11,7 @@ The project uses the details about the clients of direct marketing campaigns of 
 
 ## Architectural Diagram 
 
-
+![Architectural diagram](project_architecture.png)
 
 
 ## Future Improvements
